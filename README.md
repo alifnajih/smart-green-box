@@ -138,5 +138,3 @@ Ultrasonic    : OFF
 ---
 
 👉 Kesimpulan: program ini adalah **sistem kontrol otomatis pertanian mini (Smart Greenhouse/Smart Farm)** dengan **IoT monitoring** dan **kontrol lokal via LCD**.
-
-Mau saya bikinkan **diagram blok alur kerja sistem** (sensor → ESP8266 → Blynk/LCD → relay aktuator) biar lebih visual?
